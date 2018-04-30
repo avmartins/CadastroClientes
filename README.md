@@ -23,8 +23,8 @@ wildfly-8.2.1.Final - Esta no diretorio CadastroClientes-master
 	   Pode mover o diretorio para outro local e apontar no eclipse
 	  
 	2) Diretorios e arquivos com a configuracão do projeto
-	   wildfly-8.2.1.Final\modules - driver mysql
-	   wildfly-8.2.1.Final\standalone\configuration
+	   - wildfly-8.2.1.Final\modules - driver mysql
+	   - wildfly-8.2.1.Final\standalone\configuration
 	     standalone.xml - configuração do Datasource
 
 Executar por dentro do Eclipse ( IDE )
