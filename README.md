@@ -13,6 +13,17 @@ E necessario as ferramentas maven, git e wildfly 8 estejam instalado na maquina.
 ## Fontes do Projeto
 Esta no diretorio CadastroClientes-master ( aplicacao gerada no modelo de IDE Eclipse )
 
+## Script Criação do Banco
+DBCDump.sql - Esta no diretorio CadastroClientes-master
+
+## Servidor de Aplicação WildFly 8 
+wildfly-8.2.1.Final - Esta no diretorio CadastroClientes-master
+	- Foi inserido no projeto para facilitar a execução na integração com Eclipse, pode mover o diretorio para outro local e apontar no eclipse
+	- Diretorios e arquivos com a configuracão do projeto
+		- wildfly-8.2.1.Final\modules - driver mysql
+		- wildfly-8.2.1.Final\standalone\configuration
+			- standalone.xml - configuração do Datasource
+
 Executar por dentro do Eclipse ( IDE )
 -------------------------------------------------------------------
 	1) Instalar o Eclipse
