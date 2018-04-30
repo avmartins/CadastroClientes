@@ -18,11 +18,13 @@ DBCDump.sql - Esta no diretorio CadastroClientes-master
 
 ## Servidor de Aplicação WildFly 8 
 wildfly-8.2.1.Final - Esta no diretorio CadastroClientes-master
-	- Foi inserido no projeto para facilitar a execução na integração com Eclipse, pode mover o diretorio para outro local e apontar no eclipse
-	- Diretorios e arquivos com a configuracão do projeto
-		- wildfly-8.2.1.Final\modules - driver mysql
-		- wildfly-8.2.1.Final\standalone\configuration
-			- standalone.xml - configuração do Datasource
+	### Foi inserido no projeto para facilitar a execução na integração com Eclipse
+	  Pode mover o diretorio para outro local e apontar no eclipse
+	  
+	### Diretorios e arquivos com a configuracão do projeto
+		#### wildfly-8.2.1.Final\modules - driver mysql
+		#### wildfly-8.2.1.Final\standalone\configuration
+			##### standalone.xml - configuração do Datasource
 
 Executar por dentro do Eclipse ( IDE )
 -------------------------------------------------------------------
