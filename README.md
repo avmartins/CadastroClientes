@@ -18,6 +18,7 @@ DBCDump.sql - Esta no diretorio CadastroClientes-master
 
 ## Servidor de Aplicação WildFly 8 
 wildfly-8.2.1.Final - Esta no diretorio CadastroClientes-master
+
 	1) Foi inserido no projeto para facilitar a execução na integração com Eclipse
 	   Pode mover o diretorio para outro local e apontar no eclipse
 	  
